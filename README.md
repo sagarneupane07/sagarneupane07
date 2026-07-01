@@ -5,7 +5,7 @@
 
 ###
 ## 📉 Git Activity & Commit Track
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sujan-Rai-426&repo=Rent_NEPAL&theme=github-compact&color=1f3a93&line=dc143c&point=1f3a93&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarneupane07&repo=sagarneupane07&theme=github-compact&color=1f3a93&line=dc143c&point=1f3a93&area=true&hide_border=true)
 
 
 ## 💫 About Me:
@@ -13,8 +13,7 @@ I'm currently learning about open Authorization and Authentication.<br>And Activ
 
 
 ## 🌐 Social Medias:
-![Visitor Count](https://komarev.com/ghpvc/?username=Sujan-Rai-426&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sujan.rai.92202/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sujan_rai_426/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujan-rai-18a07b2a6/) 
+![Visitor Count](https://komarev.com/ghpvc/?username=sagarneupane07&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge)
 
 
 ## 💻 Tech Stack:
@@ -37,14 +36,14 @@ I'm currently learning about open Authorization and Authentication.<br>And Activ
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sujan-Rai-426&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sujan-Rai-426&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Rai-426&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sagarneupane07&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagarneupane07&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarneupane07&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sujan-Rai-426/Sujan-Rai-426/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sagarneupane07/sagarneupane07/output/snake.svg" alt="Snake animation" />
 
 ###
 
