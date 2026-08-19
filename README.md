@@ -37,7 +37,7 @@ I'm currently learning about open Authorization and Authentication.<br>And Activ
 
 <!-- DYNAMIC TYPING HEADER -->
 <h1 align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Sagar+Neupane;Python+%26+Django+Developer;Open+Source+Contributor">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Sagar+Neupane;+Open+Source+Contributor">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Sagar+Neupane;Python+%26+Django+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </h1>
